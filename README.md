@@ -1,2 +1,2 @@
-# Compilers-Semestral-Project
+# Projeto de Compiladores
 Projeto de Compiladores
